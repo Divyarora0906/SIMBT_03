@@ -30,7 +30,7 @@ input{
     border: none;
     border-bottom: 2px solid rgba(0, 0, 0, 0.432);
     outline: none;
-    margin: auto;
+    margin: 10px;
 }
 button{
     background-color: transparent;
